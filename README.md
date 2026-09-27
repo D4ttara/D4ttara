@@ -1,6 +1,6 @@
 # Dattara
 
-Writer, researcher, designer and builder of **MET[Ȧ]CADEMY OF HUMANITY**.
+Writer, researcher, digital artist and builder of **MET[Ȧ]CADEMY OF HUMANITY**.
 
 I work where **Human↔AI systems, provenance, epistemology, culture, experimental computing and creative practice** start disagreeing with each other. That disagreement is usually where the interesting part begins.
 
