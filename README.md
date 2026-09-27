@@ -12,8 +12,9 @@ A public research field for AI, human knowledge, semantic computing, epistemolog
 - **Start here:** https://d4ttara.github.io/metacademy-of-humanity/start/
 - **Research repository:** https://github.com/D4ttara/metacademy-of-humanity
 - **Active field notes:** https://github.com/D4ttara/metacademy-of-humanity/tree/main/research/active-research
+- **Experimental development:** https://github.com/D4ttara/metacademy-of-humanity/tree/main/development
 
-Current public work includes reproducible Human↔AI failure research, provenance and observable-state experiments, semantic systems, research-method work, and cultural/creative projects.
+Current public work includes reproducible Human↔AI failure research, provenance and observable-state experiments, semantic systems, research-method work, experimental tools, and cultural/creative projects.
 
 > **Verified evidence should not become fan fiction one turn later.**
 
